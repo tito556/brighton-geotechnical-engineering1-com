@@ -1,0 +1,51 @@
+# Geotechnical Engineering1 — Brighton
+
+> Geotechnical engineering services in Brighton, United Kingdom.
+
+## Services
+- [Anchors](https://brighton.geotechnical-engineering1.com/anchors/)
+- [Atterberg Limits](https://brighton.geotechnical-engineering1.com/atterberg-limits/)
+- [Cbr Road](https://brighton.geotechnical-engineering1.com/cbr-road/)
+- [Cpt Test](https://brighton.geotechnical-engineering1.com/cpt-test/)
+- [Deep Excavations](https://brighton.geotechnical-engineering1.com/deep-excavations/)
+- [Excavation Monitoring](https://brighton.geotechnical-engineering1.com/excavation-monitoring/)
+- [Excavations](https://brighton.geotechnical-engineering1.com/excavations/)
+- [Flexible Pavement](https://brighton.geotechnical-engineering1.com/flexible-pavement/)
+- [Footings](https://brighton.geotechnical-engineering1.com/footings/)
+- [Foundations](https://brighton.geotechnical-engineering1.com/foundations/)
+- [Grain Size](https://brighton.geotechnical-engineering1.com/grain-size/)
+- [Ground Improvement](https://brighton.geotechnical-engineering1.com/ground-improvement/)
+- [Grouting](https://brighton.geotechnical-engineering1.com/grouting/)
+- [In Situ Permeability](https://brighton.geotechnical-engineering1.com/in-situ-permeability/)
+- [Investigation](https://brighton.geotechnical-engineering1.com/investigation/)
+- [Lab In Situ](https://brighton.geotechnical-engineering1.com/lab-in-situ/)
+- [Laboratory](https://brighton.geotechnical-engineering1.com/laboratory/)
+- [Liquefaction](https://brighton.geotechnical-engineering1.com/liquefaction/)
+- [Masw](https://brighton.geotechnical-engineering1.com/masw/)
+- [Mat Foundations](https://brighton.geotechnical-engineering1.com/mat-foundations/)
+- [Piles](https://brighton.geotechnical-engineering1.com/piles/)
+- [Proctor Tests](https://brighton.geotechnical-engineering1.com/proctor-tests/)
+- [Resistivity](https://brighton.geotechnical-engineering1.com/resistivity/)
+- [Retaining Walls](https://brighton.geotechnical-engineering1.com/retaining-walls/)
+- [Rigid Pavement](https://brighton.geotechnical-engineering1.com/rigid-pavement/)
+- [Road Geotechnics](https://brighton.geotechnical-engineering1.com/road-geotechnics/)
+- [Sand Cone Density](https://brighton.geotechnical-engineering1.com/sand-cone-density/)
+- [Seismic](https://brighton.geotechnical-engineering1.com/seismic/)
+- [Seismic Isolation](https://brighton.geotechnical-engineering1.com/seismic-isolation/)
+- [Seismic Microzonation](https://brighton.geotechnical-engineering1.com/seismic-microzonation/)
+- [Seismic Refraction](https://brighton.geotechnical-engineering1.com/seismic-refraction/)
+- [Slope Stability](https://brighton.geotechnical-engineering1.com/slope-stability/)
+- [Slopes](https://brighton.geotechnical-engineering1.com/slopes/)
+- [Soft Ground Tunnels](https://brighton.geotechnical-engineering1.com/soft-ground-tunnels/)
+- [Spt Drilling](https://brighton.geotechnical-engineering1.com/spt-drilling/)
+- [Stone Columns](https://brighton.geotechnical-engineering1.com/stone-columns/)
+- [Test Pits](https://brighton.geotechnical-engineering1.com/test-pits/)
+- [Triaxial](https://brighton.geotechnical-engineering1.com/triaxial/)
+- [Vibrocompaction](https://brighton.geotechnical-engineering1.com/vibrocompaction/)
+
+## Contact
+- Website: https://brighton.geotechnical-engineering1.com/
+
+## About
+This site provides geotechnical engineering services in Brighton, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
